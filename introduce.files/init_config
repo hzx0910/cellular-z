@@ -3,5 +3,17 @@
   "loc_src_vip": "a",
   "loc_src_all": "a",
   "loc_vip": "a",
-  "loc_all": "b"
+  "loc_all": "b",
+  "version": {
+    "latest": 81,
+    "force_min": 73,
+    "force_max": 82,
+    "xiaomi": 81,
+    "huawei": 81,
+    "oppo": 81,
+    "vivo": 81,
+    "apk_cn": "apk地址",
+    "info_cn": "更新文案cn",
+    "info_en": "更新文案en"
+  }
 }
