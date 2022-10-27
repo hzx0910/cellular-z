@@ -5,10 +5,10 @@
   "loc_vip": "a",
   "loc_all": "b",
   "version": {
-    "latest": 81,
+    "latest": 83,
     "force_min": 73,
-    "force_max": 82,
-    "xiaomi": 83,
+    "force_max": 83,
+    "xiaomi": 81,
     "huawei": 81,
     "oppo": 81,
     "vivo": 81,
