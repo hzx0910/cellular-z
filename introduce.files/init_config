@@ -25,7 +25,7 @@
 	"map": {
 		"cn": "baidu",
 		"gg": "box",
-		"cn_vip": "box",
+		"cn_vip": "baidu",
 		"gg_vip": "box"
 	}
 }
