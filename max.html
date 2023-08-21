@@ -1,0 +1,73 @@
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Max课堂练习-最优停止策略</title>
+    <script src="https://cdn.staticfile.org/Chart.js/3.9.1/chart.js"></script>
+</head>
+<body>
+<div>
+    <canvas id="myChart" width="400" height="500"></canvas>
+</div>
+<div style="margin-top:20px;position: absolute;left: 50%;transform: translateX(-50%);">
+    数量:
+    <input id="inputSize" type="number" name="size" value="100">
+    <button onclick="draw()">计算</button>
+</div>
+
+</body>
+
+<script>
+    var myChart;
+
+    function ratio(n, k) {
+        if (k < 0 || k >= n) return 0;
+        if (k == 0) return 1 / n;
+        var sum = 0;
+        for (var i = k + 1; i <= n; i++) {
+            sum += k / n / (i - 1);
+        }
+        return sum;
+    }
+
+    function draw() {
+        var size = document.getElementById('inputSize').value;
+        console.log("list ====== " + size);
+        var list = new Array();
+        for (var i = 0; i < size; i++) {
+            list[i] = {
+                x: i,
+                y: ratio(size, i)
+            };
+        }
+        const data = {
+            datasets: [{
+                label: 'Max课堂练习-最优停止策略',
+                data: list,
+                backgroundColor: 'rgb(255, 99, 132)'
+            }],
+        };
+        if (myChart == null) {
+            myChart = new Chart(document.getElementById('myChart'), {
+                type: 'scatter',
+                data: data,
+                options: {
+                    responsive: true, // 设置图表为响应式，根据屏幕窗口变化而变化
+                    maintainAspectRatio: false, // 保持图表原有比例
+                    scales: {
+                        x: {
+                            type: 'linear',
+                            position: 'bottom'
+                        }
+                    }
+                }
+            });
+        } else {
+            myChart.data = data;
+            myChart.update();
+        }
+    }
+    draw();
+
+
+</script>
+</html>
