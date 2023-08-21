@@ -6,12 +6,13 @@
 </head>
 <body>
 <div>
-    <canvas id="myChart" width="400" height="310"></canvas>
+    <canvas id="myChart" width="400" height="340"></canvas>
 </div>
-<div style="margin-top:20px;padding-bottom:20px;position: absolute;left: 50%;transform: translateX(-50%);">
+<div style="margin-top:15px;padding-bottom:10px;text-align: center;margin:auto;">
     数量:
     <input id="inputSize" type="number" name="size" value="100">
     <button onclick="draw()">计算</button>
+    <a style="margin-left:10px;" id="maxOutput">最大</a>
 </div>
 
 </body>
@@ -32,12 +33,14 @@
     function draw() {
         var size = document.getElementById('inputSize').value;
         console.log("list ====== " + size);
+        var max;
         var list = new Array();
         for (var i = 0; i < size; i++) {
             list[i] = {
                 x: i,
                 y: ratio(size, i)
             };
+            if (max == null || list[i].y > max.y) max = list[i];
         }
         const data = {
             datasets: [{
@@ -65,9 +68,11 @@
             myChart.data = data;
             myChart.update();
         }
+        if (max == null) document.getElementById('maxOutput').innerHTML = "";
+        else document.getElementById('maxOutput')
+            .innerHTML = "最大: " + max.x + " / " + new Number(max.y * 100)
+            .toFixed(6) + "%";
     }
     draw();
-
-
 </script>
 </html>
