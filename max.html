@@ -24,8 +24,8 @@
         if (k < 0 || k >= n) return 0;
         if (k == 0) return 1 / n;
         var sum = 0;
-        for (var i = k + 1; i <= n; i++) {
-            sum += k / n / (i - 1);
+        for (var i = k; i < n; i++) {
+            sum += k / n / i;
         }
         return sum;
     }
