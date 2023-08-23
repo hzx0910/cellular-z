@@ -2,7 +2,7 @@
   "qq_group": "601896839",
   "loc_src_vip": "s",
   "loc_src_all": "a",
-  "loc_vip": "b",
+  "loc_vip": "s",
   "loc_all": "s",
   "version": {
     "cancelable_min": 83,
@@ -33,7 +33,7 @@
     ]
   },
   "map": {
-    "cn": "baidu",
+    "cn": "box",
     "gg": "box",
     "cn_vip": "baidu",
     "gg_vip": "box",
