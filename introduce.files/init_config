@@ -1,47 +1,48 @@
 {
-	"qq_group": "674830021",
-	"loc_src_vip": "s",
-	"loc_src_all": "a",
-	"loc_vip": "s",
-	"loc_all": "s",
-	"version": {
-		"cancelable_min": 83,
-		"cancelable_max": 86,
-		"xiaomi": 86,
-		"huawei": 86,
-		"oppo": 86,
-		"vivo": 86,
-		"play": 86,
-		"apk_version": 83,
-		"apk_cn": "https://hzx0910.github.io/cellular-z/introduce.files/CellZ_6.3.3_tencent_gu.apk",
-		"apk_cn_md5": "67cc62e705eb8f4816f2336076f5b8f8",
-		"info_cn": "1. 支持WiFi频宽显示\n2. 支持缓存数据回放",
-		"info_en": "1.SUPPORT WIFI BANDWIDTH\n2.SUPPORT CACHED DATA PLAYBACK"
-	},
-	"auditing": {
-		"xiaomi": "6.4.0",
-		"huawei": "6.3.9"
-	},
-	"ad_ids": {
-		"xiaomi": [
-			"887633180",
-			"102392739",
-			"102393042",
-			"887633180",
-			"102392739",
-			"947031906"
-		]
-	},
-	"map": {
-		"cn": "box",
-		"gg": "box",
-		"cn_vip": "box",
-		"gg_vip": "box",
-		"force_box": [
-			"Mq9rq7Ie--"
-		],
-		"force_baidu": [
-			"76eee---"
-		]
-	}
+  "qq_group": "674830021",
+  "loc_src_vip": "s",
+  "loc_src_all": "a",
+  "loc_vip": "s",
+  "loc_all": "s",
+  "version": {
+    "cancelable_min": 83,
+    "cancelable_max": 86,
+    "xiaomi": 86,
+    "huawei": 86,
+    "oppo": 86,
+    "vivo": 86,
+    "play": 86,
+    "apk_version": 83,
+    "apk_cn": "https://hzx0910.github.io/cellular-z/introduce.files/CellZ_6.3.3_tencent_gu.apk",
+    "apk_cn_md5": "67cc62e705eb8f4816f2336076f5b8f8",
+    "info_cn": "1. 支持WiFi频宽显示\n2. 支持缓存数据回放",
+    "info_en": "1.SUPPORT WIFI BANDWIDTH\n2.SUPPORT CACHED DATA PLAYBACK"
+  },
+  "auditing": {
+    "xiaomi": "6.4.0",
+    "huawei": "6.3.9",
+    "vivo": "6.4.0"
+  },
+  "ad_ids": {
+    "xiaomi": [
+      "887633180",
+      "102392739",
+      "102393042",
+      "887633180",
+      "102392739",
+      "947031906"
+    ]
+  },
+  "map": {
+    "cn": "box",
+    "gg": "box",
+    "cn_vip": "box",
+    "gg_vip": "box",
+    "force_box": [
+      "Mq9rq7Ie--"
+    ],
+    "force_baidu": [
+      "76eee---"
+    ]
+  }
 }
