@@ -19,7 +19,7 @@
     "info_en": "1.SUPPORT WIFI BANDWIDTH\n2.SUPPORT CACHED DATA PLAYBACK"
   },
   "auditing": {
-    "xiaomi": "6.4.0",
+    "xiaomi": "6.4.1",
     "huawei": "6.4.0",
     "vivo": "6.4.1"
   },
