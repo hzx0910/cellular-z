@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>CellularZ 隐私政策</title>
+    <title id="title_0">CellularZ 隐私政策</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <meta name="description" content="Description"/>
     <link rel="stylesheet" href="Stylesheet Location" type="text/css"/>
@@ -31,21 +31,14 @@
             background-color: #E8BF6A;
         }
 
-
-
-
-
-
-
-
     </style>
 </head>
 
 <body bgcolor="#333">
 <div align="left" style="margin:0 auto;max-width:500px">
 
-    <h1>CellularZ 隐私政策</h1>
-    <span>感谢使用 CellularZ。
+    <h1 id="title_1">CellularZ 隐私政策</h1>
+    <span id="title_2">感谢使用 CellularZ。
 		<Br/>	CellularZ 非常重视隐私保护，您的数据将只用来在您手机内展示，CellularZ不会主动存储或传播任何隐私内容。
 		郑州层三信息科技有限公司，注册地址【河南自贸试验区郑州片区(郑东)商务内环22号海逸名门2单元1302号】）高度重视个人信息的保护，在您使用CellularZ时，我们将按照本隐私政策收集、使用您的个人信息。我们希望通过本隐私政策向您清晰地介绍我们对您的个人信息的处理方式，因此我们建议您完整地阅读本隐私政策，以帮助您了解维护自己隐私权的方式。
 		<Br/>	希望您仔细阅读本声明，详细了解我们对信息的收集、使用方式，以便您更好地了解我们的服务并作出适当的选择。
@@ -62,7 +55,7 @@
         <h4>二. 位置权限</h4>
             <ul>
                 <li>本app显示的移动网络信息、WiFi信息、GPS信息是目前手机进行混合定位的基础数据，如果app未被授予定位权限，系统会拒绝向app提供相关数据</li>
-                <li>获取到的相关信息都会在CellularZ内显示，让您更了解您的网络</li>
+                <li id="title_3">获取到的相关信息都会在CellularZ内显示，让您更了解您的网络</li>
             </ul>
         <h4>三. 加速度传感器、陀螺仪传感器</h4>
             <ul>
@@ -76,7 +69,7 @@
 		</span>
     <Br/><Br/>
     <h2>收集用户个人信息/权限的范围</h2>
-    <span>当您打开CellularZ或将CellularZ置于后台，我们将从系统获取这些信息：
+    <span id="title_4">当您打开CellularZ或将CellularZ置于后台，我们将从系统获取这些信息：
 			<Br/>	&nbsp; &nbsp; 您的位置信息(基站/GPS/WiFi)；
 			<Br/>	&nbsp; &nbsp; 您的网络信息；
 			<Br/>	&nbsp; &nbsp; 设备MAC地址/BSSID/IP地址；
@@ -139,6 +132,25 @@
     <h2>----------郑州层三信息科技有限公司</h2>
 
 </div>
+<script>
+    function addBreak(id) {
+        var element = document.getElementById(id);
+        if (element) {
+            var text = element.innerText || element.textContent;
+            var replacedText = text.replace(/CellularZ/g, "Cellular-Z");
+            element.innerText = replacedText || element.textContent;
+        }
+    }
+    var query = window.location.search
+    if(query.includes("break=1")){
+        addBreak("title_0");
+        addBreak("title_1");
+        addBreak("title_2");
+        addBreak("title_3");
+        addBreak("title_4");
+    }
+
+</script>
 
 </body>
 
