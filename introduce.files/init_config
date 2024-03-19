@@ -12,9 +12,9 @@
 		"oppo": 94,
 		"vivo": 94,
 		"play": 89,
-		"apk_version": 83,
-		"apk_cn": "https://hzx0910.github.io/cellular-z/introduce.files/CellZ_6.3.3_tencent_gu.apk",
-		"apk_cn_md5": "67cc62e705eb8f4816f2336076f5b8f8",
+		"apk_version": 89,
+		"apk_cn": "https://hzx0910.github.io/cellular-z/introduce.files/CellZ_6.4.4_GU.apk",
+		"apk_cn_md5": "7c35d2ee9a3af5d5f0d6180f19b22e89",
 		"info_cn": "1. 优化5G参数 \n2. 优化速度测试 \n3. 优化运营商识别",
 		"info_en": "1. 5G OPTIMIZATION \n2.SPEET TEST OPTIMIZATION \n 3.Rename to CellularZ\n(Del '-',please search CellularZ in play store to download the new version)"
 	},
