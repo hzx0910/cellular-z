@@ -1,50 +1,56 @@
 {
-	"qq_group": "714487887",
-	"loc_src_vip": "s",
-	"loc_src_all": "a",
-	"loc_vip": "s",
-	"loc_all": "s",
-	"version": {
-		"cancelable_min": 85,
-		"cancelable_max": 94,
-		"xiaomi": 94,
-		"huawei": 94,
-		"oppo": 94,
-		"vivo": 94,
-		"play": 89,
-		"apk_version": 89,
-		"apk_cn": "https://hzx0910.github.io/cellular-z/introduce.files/CellZ_6.4.4_GU.apk",
-		"apk_cn_md5": "7c35d2ee9a3af5d5f0d6180f19b22e89",
-		"info_cn": "1. 优化5G参数 \n2. 优化速度测试 \n3. 优化运营商识别",
-		"info_en": "1. 5G OPTIMIZATION \n2.SPEET TEST OPTIMIZATION \n 3.Rename to CellularZ\n(Del '-',please search CellularZ in play store to download the new version)"
-	},
-	"auditing": {
-		"xiaomi": "6.4.5",
-		"huawei": "6.4.5",
-		"vivo": "6.4.5"
-	},
-	"ad_ids": {
-		"xiaomi": [
-			"887633180",
-			"102655129",
-			"947031906"
-		],
-		"huawei": [
-			"887633180",
-			"102655129",
-			"947031906"
-		]
-	},
-	"map": {
-		"cn": "box",
-		"gg": "box",
-		"cn_vip": "box",
-		"gg_vip": "box",
-		"force_box": [
-			"Mq9rq7Ie--"
-		],
-		"force_baidu": [
-			"76eee---"
-		]
-	}
+  "qq_group": "714487887",
+  "loc_src_vip": "s",
+  "loc_src_all": "a",
+  "loc_vip": "s",
+  "loc_all": "s",
+  "version": {
+    "cancelable_min": 85,
+    "cancelable_max": 94,
+    "xiaomi": 94,
+    "huawei": 94,
+    "oppo": 94,
+    "vivo": 94,
+    "play": 89,
+    "apk_version": 89,
+    "apk_cn": "https://hzx0910.github.io/cellular-z/introduce.files/CellZ_6.4.4_GU.apk",
+    "apk_cn_md5": "7c35d2ee9a3af5d5f0d6180f19b22e89",
+    "info_cn": "1. 优化5G参数 \n2. 优化速度测试 \n3. 优化运营商识别",
+    "info_en": "1. 5G OPTIMIZATION \n2.SPEET TEST OPTIMIZATION \n 3.Rename to CellularZ\n(Del '-',please search CellularZ in play store to download the new version)"
+  },
+  "auditing": {
+    "xiaomi": "6.4.5",
+    "huawei": "6.4.5",
+    "vivo": "6.4.5"
+  },
+  "ad_ids": {
+    "xiaomi": [
+      "887633180",
+      "102655129",
+      "947031906"
+    ],
+    "huawei": [
+      "887633180",
+      "102655129",
+      "947031906"
+    ]
+  },
+  "map": {
+    "cn": "box",
+    "gg": "box",
+    "cn_vip": "box",
+    "gg_vip": "box",
+    "force_box": [
+      "Mq9rq7Ie--"
+    ],
+    "force_baidu": [
+      "76eee---"
+    ]
+  },
+  "niu": {
+    "vip": false,
+    "week": true,
+    "wifi": true,
+    "data": false
+  }
 }
