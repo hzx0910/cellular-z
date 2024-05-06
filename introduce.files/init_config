@@ -51,6 +51,6 @@
     "vip": false,
     "week": true,
     "wifi": true,
-    "data": false
+    "data": true
   }
 }
