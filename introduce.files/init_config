@@ -52,6 +52,6 @@
     "week": true,
     "wifi": true,
     "data": true,
-    "min": 2000
+    "min": 1000
   }
 }
