@@ -1,57 +1,62 @@
 {
-  "qq_group": "810187695",
-  "loc_src_vip": "s",
-  "loc_src_all": "a",
-  "loc_vip": "s",
-  "loc_all": "s",
-  "version": {
-    "cancelable_min": 87,
-    "cancelable_max": 98,
-    "xiaomi": 98,
-    "huawei": 98,
-    "oppo": 98,
-    "vivo": 98,
-    "play": 98,
-    "apk_version": 98,
-    "apk_cn": "https://hzx0910.github.io/cellular-z/introduce.files/CellZ_6.4.7_GU.apk",
-    "apk_cn_md5": "2448811be07459d30b6f3334b0f594b3",
-    "info_cn": "1. 优化5G参数 \n2. 优化折叠屏适配 \n3. 优化运营商识别",
-    "info_en": "1. 5G OPTIMIZATION \n2.FOLDABLE ADAPTATION OPTIMIZATION \n 3.Rename to CellularZ\n(Del '-',please search CellularZ in play store to download the new version)"
-  },
-  "auditing": {
-    "xiaomi": "6.4.8",
-    "huawei": "6.4.8",
-    "vivo": "6.4.8"
-  },
-  "ad_ids": {
-    "xiaomi": [
-      "887633180",
-      "102655129",
-      "947031906"
-    ],
-    "huawei": [
-      "887633180",
-      "102655129",
-      "947031906"
-    ]
-  },
-  "map": {
-    "cn": "box",
-    "gg": "box",
-    "cn_vip": "box",
-    "gg_vip": "box",
-    "force_box": [
-      "Mq9rq7Ie--"
-    ],
-    "force_baidu": [
-      "76eee---"
-    ]
-  },
-  "niu": {
-    "vip": false,
-    "week": true,
-    "wifi": true,
-    "data": true,
-    "min": 1000
-  }
+	"qq_group": "810187695",
+	"loc_src_vip": "s",
+	"loc_src_all": "a",
+	"loc_vip": "s",
+	"loc_all": "s",
+	"version": {
+		"cancelable_min": 87,
+		"cancelable_max": 98,
+		"xiaomi": 98,
+		"huawei": 98,
+		"oppo": 98,
+		"vivo": 98,
+		"play": 98,
+		"apk_version": 98,
+		"apk_cn": "https://hzx0910.github.io/cellular-z/introduce.files/CellZ_6.4.7_GU.apk",
+		"apk_cn_md5": "2448811be07459d30b6f3334b0f594b3",
+		"info_cn": "1. 优化5G参数 \n2. 优化折叠屏适配 \n3. 优化运营商识别",
+		"info_en": "1. 5G OPTIMIZATION \n2.FOLDABLE ADAPTATION OPTIMIZATION \n 3.Rename to CellularZ\n(Del '-',please search CellularZ in play store to download the new version)"
+	},
+	"auditing": {
+		"xiaomi": "6.4.8",
+		"huawei": "6.4.8",
+		"vivo": "6.4.8"
+	},
+	"ad_ids": {
+		"xiaomi": [
+			"887633180",
+			"102655129",
+			"947031906"
+		],
+		"huawei": [
+			"887633180",
+			"102655129",
+			"947031906"
+		]
+	},
+	"map": {
+		"cn": "box",
+		"gg": "box",
+		"cn_vip": "box",
+		"gg_vip": "box",
+		"force_box": [
+			"Mq9rq7Ie--"
+		],
+		"force_baidu": [
+			"76eee---"
+		]
+	},
+	"niu": {
+		"vip": false,
+		"week": true,
+		"wifi": true,
+		"data": true,
+		"min": 1000
+	},
+	"server": [
+		["31.8667", "117.2833", "Hefei", "China Telecom AnHui 5G", "http://speedtest1.ah163.com:8080/speedtest/upload.php"],
+		["31.3856", "120.9807", "Kunshan", "Duke Kunshan University", "http://speedtest.dukekunshan.edu.cn:8080/speedtest/upload.php"],
+		["30.2741", "120.1552", "Hangzhou", "Wasu", "http://speedtest.wasu.cn:8080/speedtest/upload.php"]
+	]
 }
