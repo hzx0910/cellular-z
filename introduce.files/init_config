@@ -55,8 +55,14 @@
 		"min": 1000
 	},
 	"server": [
-		["31.8667", "117.2833", "Hefei", "China Telecom AnHui 5G", "http://speedtest1.ah163.com:8080/speedtest/upload.php"],
+		["32.0500", "118.7667", "Nanjing", "China Telecom JiangSu 5G", "http://5gnanjing.speedtest.jsinfo.net:8080/speedtest/upload.php"],
+		["32.2069", "119.4490", "Zhenjiang", "China Telecom JiangSu 5G", "http://5gzhenjiang.speedtest.jsinfo.net:8080/speedtest/upload.php"],
 		["31.3856", "120.9807", "Kunshan", "Duke Kunshan University", "http://speedtest.dukekunshan.edu.cn:8080/speedtest/upload.php"],
-		["30.2741", "120.1552", "Hangzhou", "Wasu", "http://speedtest.wasu.cn:8080/speedtest/upload.php"]
+		["31.8667", "117.2833", "Hefei", "China Telecom AnHui 5G", "http://speedtest1.ah163.com:8080/speedtest/upload.php"],
+		["30.2741", "120.1552", "Hangzhou", "Wasu", "http://speedtest.wasu.cn:8080/speedtest/upload.php"],
+		["30.2741", "120.1552", "HangZhou", "浙江电信", "http://cesu-hz.zjtelecom.com.cn:8080/speedtest/upload.php"],
+		["31.4554", "104.6693", "Mianyang", "China Unicom", "http://mycuspeed.169ol.com:8080/speedtest/upload.php"],
+		["30.6586", "104.0647", "Chengdu", "ChinaUnicom Sichuan", "http://cuscspeed.169ol.com:8080/speedtest/upload.php"],
+		["29.5583", "106.5667", "Chongqing", "CCN", "http://speedtest1.cqccn.com:8080/speedtest/upload.php"]
 	]
 }
