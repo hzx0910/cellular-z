@@ -63,5 +63,6 @@
 		["31.4554", "104.6693", "Mianyang", "China Unicom", "http://mycuspeed.169ol.com:8080/speedtest/upload.php"],
 		["30.6586", "104.0647", "Chengdu", "ChinaUnicom Sichuan", "http://cuscspeed.169ol.com:8080/speedtest/upload.php"],
 		["29.5583", "106.5667", "Chongqing", "CCN", "http://speedtest1.cqccn.com:8080/speedtest/upload.php"]
-	]
+	],
+	"block": ["speedtest.wasu.cn:8080", "speedtest.dukekunshan.edu.cn:8080"]
 }
