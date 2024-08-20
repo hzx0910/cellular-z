@@ -63,6 +63,8 @@
 		["30.2741", "120.1552", "HangZhou", "浙江电信", "http://cesu-hz.zjtelecom.com.cn:8080/speedtest/upload.php"],
 		["31.4554", "104.6693", "Mianyang", "China Unicom", "http://mycuspeed.169ol.com:8080/speedtest/upload.php"],
 		["30.6586", "104.0647", "Chengdu", "ChinaUnicom Sichuan", "http://cuscspeed.169ol.com:8080/speedtest/upload.php"],
-		["29.5583", "106.5667", "Chongqing", "CCN", "http://speedtest1.cqccn.com:8080/speedtest/upload.php"]
+		["29.5583", "106.5667", "Chongqing", "CCN", "http://speedtest1.cqccn.com:8080/speedtest/upload.php"],
+		["34.2225", "108.9526", "Xi'an", "China Mobile 5G", "http://speedtest.one-punch.win:8080/speedtest/upload.php"],
+		["31.2347", "121.51073", "Shanghai", "China Telecom", "http://speedtest1.online.sh.cn:8080/speedtest/upload.php"]
 	]
 }
