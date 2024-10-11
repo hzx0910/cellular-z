@@ -21,7 +21,7 @@
 	"auditing": {
 		"xiaomi": "6.5.1",
 		"huawei": "6.5.1",
-		"vivo": "6.5.1"
+		"vivo": "6.5.2"
 	},
 	"ad_ids": {
 		"xiaomi": [
