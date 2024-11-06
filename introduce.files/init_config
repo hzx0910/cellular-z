@@ -12,11 +12,11 @@
 		"oppo": 200,
 		"vivo": 200,
 		"play": 200,
-		"apk_version": 99,
-		"apk_cn": "https://hzx0910.github.io/cellular-z/introduce.files/CellZ_6.4.9_GU.apk",
-		"apk_cn_md5": "7ba470bb4cdb75cbc94e081bbb5f8ca9",
-		"info_cn": "1. 优化5G参数 \n2. 测速服务优化 \n3. 定位信息优化",
-		"info_en": "1. 5G OPTIMIZATION \n2.SPEED TEST OPTIMIZATION \n 3.Rename to CellularZ\n(Del '-',please search CellularZ in play store to download the new version)"
+		"apk_version": 200,
+		"apk_cn": "https://hzx0910.github.io/cellular-z/introduce.files/CellZ_7.0.0_GU.apk",
+		"apk_cn_md5": "b680c405ec430ae6a12d53b49e592607",
+		"info_cn": "1. 优化信号强度曲线，方便判断信号质量 \n2. 增加WiFi信号曲线，直观感受信号变化 \n3. 增加WiFi标准（几代）、安全等相关信息 \n4. WiFi信道图支持区分2.4G和5G",
+		"info_en": "1. Optimize the signal strength curve. \n2. Add WiFi signal curve. \n3. Show WiFi standards. \n4.Rename to CellularZ\n(Del '-',please search CellularZ in play store to download the new version)"
 	},
 	"auditing": {
 		"xiaomi": "7.0.1",
