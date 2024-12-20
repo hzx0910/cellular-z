@@ -49,7 +49,7 @@
 	},
 	"niu": {
 		"vip": false,
-		"week": true,
+		"week": false,
 		"wifi": true,
 		"data": true,
 		"min": 1000
