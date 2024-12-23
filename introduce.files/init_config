@@ -12,9 +12,9 @@
 		"oppo": 201,
 		"vivo": 201,
 		"play": 201,
-		"apk_version": 200,
-		"apk_cn": "https://hzx0910.github.io/cellular-z/introduce.files/CellZ_7.0.0_GU.apk",
-		"apk_cn_md5": "b680c405ec430ae6a12d53b49e592607",
+		"apk_version": 201,
+		"apk_cn": "https://hzx0910.github.io/cellular-z/introduce.files/CellZ_7.0.1_GU.apk",
+		"apk_cn_md5": "89b6da6feda85b5da3e1f2cc92f99f81",
 		"info_cn": "1. 优化信号强度曲线，方便判断信号质量 \n2. 增加WiFi信号曲线，直观感受信号变化 \n3. 增加WiFi标准（几代）、安全等相关信息 \n4. WiFi信道图支持区分2.4G和5G",
 		"info_en": "1. Optimize the signal strength curve. \n2. Add WiFi signal curve. \n3. Show WiFi standards. \n4.Rename to CellularZ\n(Del '-',please search CellularZ in play store to download the new version)"
 	},
