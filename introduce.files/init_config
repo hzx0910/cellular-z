@@ -19,7 +19,7 @@
 		"info_en": "1. Optimize the signal strength curve. \n2. Add WiFi signal curve. \n3. Show WiFi standards. \n4.Rename to CellularZ\n(Del '-',please search CellularZ in play store to download the new version)"
 	},
 	"auditing": {
-		"xiaomi": "7.0.1",
+		"xiaomi": "7.0.2",
 		"huawei": "7.0.2",
 		"vivo": "7.0.2"
 	},
