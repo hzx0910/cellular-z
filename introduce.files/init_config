@@ -36,9 +36,9 @@
 		]
 	},
 	"map": {
-		"cn": "box",
+		"cn": "baidu",
 		"gg": "box",
-		"cn_vip": "box",
+		"cn_vip": "baidu",
 		"gg_vip": "box",
 		"force_box": [
 			"Mq9rq7Ie--"
