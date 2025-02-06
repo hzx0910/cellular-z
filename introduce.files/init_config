@@ -51,8 +51,8 @@
 	"niu": {
 		"vip": false,
 		"week": false,
-		"wifi": true,
-		"data": true,
+		"wifi": false,
+		"data": false,
 		"min": 1000
 	},
 	"speed_block": ["speedtest.wasu.cn:8080", "speedtest.dukekunshan.edu.cn:8080"],
