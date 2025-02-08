@@ -1,0 +1,71 @@
+{
+	"qq_group": "334087539",
+	"loc_src_vip": "s",
+	"loc_src_all": "a",
+	"loc_vip": "s",
+	"loc_all": "s",
+	"bmob_domain": "http://z.cellularpro.cn/8/",
+	"version": {
+		"cancelable_min": 90,
+		"cancelable_max": 201,
+		"xiaomi": 201,
+		"huawei": 201,
+		"oppo": 201,
+		"vivo": 201,
+		"play": 201,
+		"apk_version": 201,
+		"apk_cn": "https://hzx0910.github.io/cellular-z/introduce.files/CellZ_7.0.1_GU.apk",
+		"apk_cn_md5": "89b6da6feda85b5da3e1f2cc92f99f81",
+		"info_cn": "1. 优化信号强度曲线，方便判断信号质量 \n2. 增加WiFi信号曲线，直观感受信号变化 \n3. 增加WiFi标准（几代）、安全等相关信息 \n4. WiFi信道图支持区分2.4G和5G",
+		"info_en": "1. Optimize the signal strength curve. \n2. Add WiFi signal curve. \n3. Show WiFi standards. \n4.Rename to CellularZ\n(Del '-',please search CellularZ in play store to download the new version)"
+	},
+	"auditing": {
+		"xiaomi": "7.0.2",
+		"huawei": "7.0.2",
+		"vivo": "7.0.2"
+	},
+	"ad_ids": {
+		"xiaomi": [
+			"887633180",
+			"102655129",
+			"947031906"
+		],
+		"huawei": [
+			"887633180",
+			"102655129",
+			"947031906"
+		]
+	},
+	"map": {
+		"cn": "baidu",
+		"gg": "box",
+		"cn_vip": "baidu",
+		"gg_vip": "box",
+		"force_box": [
+			"Mq9rq7Ie--"
+		],
+		"force_baidu": [
+			"76eee---"
+		]
+	},
+	"niu": {
+		"vip": false,
+		"week": false,
+		"wifi": true,
+		"data": true,
+		"min": 1000
+	},
+	"speed_block": ["speedtest.wasu.cn:8080", "speedtest.dukekunshan.edu.cn:8080"],
+	"server": [
+		["32.0500", "118.7667", "Nanjing", "China Telecom JiangSu 5G", "http://5gnanjing.speedtest.jsinfo.net:8080/speedtest/upload.php"],
+		["32.2069", "119.4490", "Zhenjiang", "China Telecom JiangSu 5G", "http://5gzhenjiang.speedtest.jsinfo.net:8080/speedtest/upload.php"],
+		["31.8667", "117.2833", "Hefei", "China Telecom AnHui 5G", "http://speedtest1.ah163.com:8080/speedtest/upload.php"],
+		["29.8683", "121.5440", "NingBo", "浙江电信", "http://cesu-nb.zjtelecom.com.cn:8080/speedtest/upload.php"],
+		["30.2741", "120.1552", "HangZhou", "浙江电信", "http://cesu-hz.zjtelecom.com.cn:8080/speedtest/upload.php"],
+		["31.4554", "104.6693", "Mianyang", "China Unicom", "http://mycuspeed.169ol.com:8080/speedtest/upload.php"],
+		["30.6586", "104.0647", "Chengdu", "ChinaUnicom Sichuan", "http://cuscspeed.169ol.com:8080/speedtest/upload.php"],
+		["29.5583", "106.5667", "Chongqing", "CCN", "http://speedtest1.cqccn.com:8080/speedtest/upload.php"],
+		["34.2225", "108.9526", "Xi'an", "China Mobile 5G", "http://speedtest.one-punch.win:8080/speedtest/upload.php"],
+		["31.2347", "121.51073", "Shanghai", "China Telecom", "http://speedtest1.online.sh.cn:8080/speedtest/upload.php"]
+	]
+}
