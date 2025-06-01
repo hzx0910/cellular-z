@@ -7,17 +7,17 @@
 	"bmob_domain": "http://z.cellularpro.cn/8/",
 	"version": {
 		"cancelable_min": 90,
-		"cancelable_max": 212,
-		"xiaomi": 212,
-		"huawei": 212,
-		"oppo": 212,
-		"vivo": 212,
+		"cancelable_max": 213,
+		"xiaomi": 213,
+		"huawei": 213,
+		"oppo": 213,
+		"vivo": 213,
 		"play": 212,
-		"apk_version": 201,
-		"apk_cn": "https://hzx0910.github.io/cellular-z/introduce.files/CellZ_7.0.1_GU.apk",
-		"apk_cn_md5": "89b6da6feda85b5da3e1f2cc92f99f81",
-		"info_cn": "1. 优化信号强度曲线，方便判断信号质量 \n2. 增加WiFi信号曲线，直观感受信号变化 \n3. 增加WiFi标准（几代）、安全等相关信息 \n4. WiFi信道图支持区分2.4G和5G",
-		"info_en": "1. Optimize the signal strength curve. \n2. Add WiFi signal curve. \n3. Show WiFi standards. \n4.Rename to CellularZ\n(Del '-',please search CellularZ in play store to download the new version)"
+		"apk_version": 212,
+		"apk_cn": "https://hzx0910.github.io/cellular-z/introduce.files/CellZ_7.1.3_GU.apk",
+		"apk_cn_md5": "db3d6f4bd413caad3b31b2020759ff9d",
+		"info_cn": "1. 优化5G频率计算 \n2. 优化6GHz WiFi信道计算 \n3. 新增水印相機功能",
+		"info_en": "1. OPTIMIZE 5G FREQ CALC \n2. OPTIMIZE 6G WiFi CALC \n3. ADDED WATERMARK CAMERA FEATURE. \n4.Rename to CellularZ\n(Del '-',please search CellularZ in play store to download the new version)"
 	},
 	"auditing": {
 		"xiaomi": "7.1.4",
