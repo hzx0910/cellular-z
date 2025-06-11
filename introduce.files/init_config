@@ -20,8 +20,8 @@
 		"info_en": "1. OPTIMIZE 5G FREQ CALC \n2. OPTIMIZE 6G WiFi CALC \n3. ADDED WATERMARK CAMERA FEATURE. \n4.Rename to CellularZ\n(Del '-',please search CellularZ in play store to download the new version)"
 	},
 	"auditing": {
-		"xiaomi": "7.1.5",
-		"huawei": "7.1.5",
+		"xiaomi": "7.1.6",
+		"huawei": "7.1.6",
 		"vivo": "7.1.5"
 	},
 	"ad_ids": {
