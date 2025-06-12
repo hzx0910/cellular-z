@@ -13,9 +13,9 @@
 		"oppo": 215,
 		"vivo": 215,
 		"play": 212,
-		"apk_version": 212,
-		"apk_cn": "https://hzx0910.github.io/cellular-z/introduce.files/CellZ_7.1.3_GU.apk",
-		"apk_cn_md5": "db3d6f4bd413caad3b31b2020759ff9d",
+		"apk_version": 215,
+		"apk_cn": "https://hzx0910.github.io/cellular-z/introduce.files/CellZ_7.1.5_GU.apk",
+		"apk_cn_md5": "c8fbcd7056b8de5fa58fd69742cd1791",
 		"info_cn": "1. 优化5G频率计算 \n2. 优化6GHz WiFi信道计算 \n3. 新增水印相機功能",
 		"info_en": "1. OPTIMIZE 5G FREQ CALC \n2. OPTIMIZE 6G WiFi CALC \n3. ADDED WATERMARK CAMERA FEATURE. \n4.Rename to CellularZ\n(Del '-',please search CellularZ in play store to download the new version)"
 	},
