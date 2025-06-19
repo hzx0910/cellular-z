@@ -41,6 +41,7 @@
 		"gg": "box",
 		"cn_vip": "box",
 		"gg_vip": "box",
+		"block":true,
 		"force_box": [
 			"Mq9rq7Ie--"
 		],
