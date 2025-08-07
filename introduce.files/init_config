@@ -41,6 +41,7 @@
 		"gg": "baidu",
 		"cn_vip": "baidu",
 		"gg_vip": "baidu",
+		"block": false,
 		"force_box": [
 			"Mq9rq7Ie--"
 		],
