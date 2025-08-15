@@ -3,7 +3,7 @@
 	"loc_src_vip": "s",
 	"loc_src_all": "a",
 	"loc_vip": "b",
-	"loc_all": "s",
+	"loc_all": "b",
 	"bmob_domain": "http://z.cellularpro.cn/8/",
 	"version": {
 		"cancelable_min": 100,
