@@ -7,17 +7,17 @@
 	"bmob_domain": "http://z.cellularpro.cn/8/",
 	"version": {
 		"cancelable_min": 100,
-		"cancelable_max": 216,
-		"xiaomi": 216,
-		"huawei": 216,
-		"oppo": 216,
-		"vivo": 216,
+		"cancelable_max": 217,
+		"xiaomi": 217,
+		"huawei": 217,
+		"oppo": 217,
+		"vivo": 217,
 		"play": 215,
-		"apk_version": 216,
-		"apk_cn": "https://hzx0910.github.io/cellular-z/introduce.files/CellZ_716_G.apk",
-		"apk_cn_md5": "a79aa24e314375dadcde7426346d2e7d",
-		"info_cn": "1. 优化5G BAND计算 \n2. 添加WiFi ISP显示 \n3. 水印相机显示BAND",
-		"info_en": "1. OPTIMIZE 5G BAND CALC \n2. OPTIMIZE 6G WiFi CALC \n3. WATERMARK CAMERA SHOW BAND. \n4.Rename to CellularZ\n(Del '-',please search CellularZ in play store to download the new version)"
+		"apk_version": 217,
+		"apk_cn": "https://hzx0910.github.io/cellular-z/introduce.files/CellZ_717_GU.apk",
+		"apk_cn_md5": "21409c74cf652c25d8ba78f17524b4bc",
+		"info_cn": "1. 优化定位/地图重新开放 \n2. 水印相机支持自定义备注 \n3. SIM/运营商/卫星展示优化",
+		"info_en": "1. LOCATION OPTIMIZED, MAP REOPENED \n2. WATERMARK CAMERA SUPPORTS CUSTOM NOTES \n3. SIM/OPERATOR/SATELLITE DISPLAY OPTIMIZED. \n4.Rename to CellularZ\n(Del '-',please search CellularZ in play store to download the new version)"
 	},
 	"auditing": {
 		"xiaomi": "7.1.8",
