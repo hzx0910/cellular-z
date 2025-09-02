@@ -67,6 +67,9 @@
 		["30.6586", "104.0647", "Chengdu", "ChinaUnicom Sichuan", "http://cuscspeed.169ol.com:8080/speedtest/upload.php"],
 		["29.5583", "106.5667", "Chongqing", "CCN", "http://speedtest1.cqccn.com:8080/speedtest/upload.php"],
 		["34.2225", "108.9526", "Xi'an", "China Mobile 5G", "http://speedtest.one-punch.win:8080/speedtest/upload.php"],
-		["31.2347", "121.51073", "Shanghai", "China Telecom", "http://speedtest1.online.sh.cn:8080/speedtest/upload.php"]
+		["31.2347", "121.5107", "Shanghai", "China Telecom", "http://speedtest1.online.sh.cn:8080/speedtest/upload.php"],
+		["32.0300", "118.4600", "Nanjing", "中国移动", "http://speedtest.jsqiuying.com:8080/speedtest/upload.php"],
+		["31.2317", "121.4726", "Shanghai", "中国联通", "http://mobile.shunicomtest.com:8080/speedtest/upload.php"],
+		["31.2317", "121.4726", "Shanghai", "中国联通", "http://server-24447.prod.hosts.ooklaserver.net:8080/speedtest/upload.php"]
 	]
 }
