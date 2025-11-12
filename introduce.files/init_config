@@ -20,8 +20,8 @@
 		"info_en": "1. LOCATION OPTIMIZED, MAP REOPENED \n2. WATERMARK CAMERA SUPPORTS CUSTOM NOTES \n3. SIM/OPERATOR/SATELLITE DISPLAY OPTIMIZED. \n4.Rename to CellularZ\n(Del '-',please search CellularZ in play store to download the new version)"
 	},
 	"auditing": {
-		"xiaomi": "7.1.9",
-		"huawei": "7.1.9",
+		"xiaomi": "7.2.0",
+		"huawei": "7.2.0",
 		"vivo": "7.2.0"
 	},
 	"ad_ids": {
