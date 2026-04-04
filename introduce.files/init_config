@@ -5,6 +5,7 @@
 	"loc_vip": "b",
 	"loc_all": "b",
 	"bmob_domain": "http://z.cellularpro.cn/8/",
+	"block_wx": true,
 	"version": {
 		"cancelable_min": 100,
 		"cancelable_max": 218,
