@@ -8,17 +8,17 @@
 	"block_wx": true,
 	"version": {
 		"cancelable_min": 100,
-		"cancelable_max": 222,
-        "xiaomi": 222,
-        "huawei": 222,
-        "oppo": 222,
-        "vivo": 222,
+		"cancelable_max": 221,
+        "xiaomi": 221,
+        "huawei": 221,
+        "oppo": 221,
+        "vivo": 221,
         "play": 222,
-        "apk_version": 222,
-		"apk_cn": "https://hzx0910.github.io/cellular-z/introduce.files/CellZ_722_GU.apk",
-		"apk_cn_md5": "1c559dae13614d324f481c8fc6360eab",
-        "info_cn": "1. 优化APP启动速度 \n2. 优化水印相机经纬度 \n3. SIM/运营商展示优化",
-        "info_en": "1. OPTIMIZE APP STARTUP SPEED \n2. OPTIMIZE PHOTO GPS LOC \n3. SIM/OPERATOR DISPLAY OPTIMIZED"
+        "apk_version": 221,
+		"apk_cn": "https://hzx0910.github.io/cellular-z/introduce.files/CellZ_721_GU.apk",
+		"apk_cn_md5": "4d5f45333a69f74e9ff3d8dcfca6b1db",
+        "info_cn": "1. 优化APP启动速度 \n2. 优化水印相机 \n3. SIM/运营商展示优化",
+        "info_en": "1. OPTIMIZE APP STARTUP SPEED \n2. OPTIMIZE PHOTO \n3. SIM/OPERATOR DISPLAY OPTIMIZED"
 	},
 	"auditing": {
 		"xiaomi": "7.2.3",
